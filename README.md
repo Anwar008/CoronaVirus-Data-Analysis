@@ -5,6 +5,6 @@ I tried analyzing a small dataset on the spread of the Corona Virus across vario
 
 Dataset and notebook both are given in the repo.
 
-Repository link given in the comments.
+
 
 Download the dataset and try analyzing yourself as well.
